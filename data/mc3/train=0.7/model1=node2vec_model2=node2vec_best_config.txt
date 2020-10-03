@@ -1,0 +1,3 @@
+
+r	alpha	best_average_valid
+1.5	5	0.9285
