@@ -1,3 +1,0 @@
-
-test auc: 0.6205
-test std: 0.0049
